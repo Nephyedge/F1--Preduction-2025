@@ -22,8 +22,9 @@ To run the script and generate the predictions, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/nephyedge/F1--Preduction-2025/Suzuka.git
-   cd suzuka_f1.py
+   git clone https://github.com/Nephyedge/F1--Preduction-2025.git
+   cd F1--Preduction-2025
+   cd Suzuka
 
 2. Data
     Historical race data is loaded dynamically from the FastF1 library.
