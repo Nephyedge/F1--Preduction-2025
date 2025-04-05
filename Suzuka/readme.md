@@ -26,15 +26,15 @@ To run the script and generate the predictions, follow these steps:
    cd F1--Preduction-2025
    cd Suzuka
 
-2. Data
+## Data
     Historical race data is loaded dynamically from the FastF1 library.
     Output is saved to suzuka_2025_predictions.csv
 
-3. Usage
+## Usage
     ```bash
     python suzuka_f1.py
 
-4. Visualizations
+## Visualizations
     The generated visualizations provide insights into the predicted race outcomes:
         Main Race Prediction Chart: Shows predicted finishing positions with error bars indicating uncertainty.
         Podium Probability Chart: Displays the top drivers by their probability of finishing on the podium.
@@ -43,9 +43,9 @@ To run the script and generate the predictions, follow these steps:
         Driver Head-to-Head Comparison: Compares key metrics between two top drivers.
         Team Performance Overview: Summarizes the predicted performance of each team.
         Prediction Uncertainty Chart: Visualizes the uncertainty in predictions for each driver.
-
-5. Contributing
+        
+## Contributing
     Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-6. License
+## License
     This project is licensed under the MIT License. See the LICENSE file for details.
